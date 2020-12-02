@@ -1,5 +1,15 @@
 # @backstage/plugin-cloudbuild
 
+## 0.2.3
+
+### Patch Changes
+
+- Updated dependencies [a9fd599f7]
+- Updated dependencies [bcc211a08]
+- Updated dependencies [ebf37bbae]
+  - @backstage/catalog-model@0.4.0
+  - @backstage/plugin-catalog@0.2.5
+
 ## 0.2.2
 
 ### Patch Changes
